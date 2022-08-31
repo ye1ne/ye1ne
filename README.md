@@ -34,7 +34,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yw9330)](https://solved.ac/yw9330)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uomah&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye1ne&show_icons=true&theme=vue)
 
 
 </center>
