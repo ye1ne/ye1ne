@@ -1,19 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEC99A,50:DBA9E0,100:8DD6DC&height=300&section=header&text=yewon's%20github&fontSize=60&fontAlignY=50&fontColor=FFFFFF&fontAlign=70)
 ### 👩🏻‍💻About Me
-- 예비 **백엔드 개발자** 입니다.
-- **주어진 문제**를 **공학적 지식을 바탕**으로 **더 효율적으로 해결해 나가는** 것에 큰 재미를 느낍니다.
+- BE Developer
 - [공부를 위한 기술블로그](https://coding-zzang.tistory.com/)를 운영하고 있습니다.
 - 이력이 궁금하다면 [포트폴리오](https://ye1ne.notion.site/) 또는 [Linkedin](https://www.linkedin.com/in/yewon-jeong-05023a20a/)
-
-### ✨Experiences
-- 
-- **SW Maestro 13th** / BE Developer(22.04-22.12)
-- 숭실대학교 **AI데이터연구단 학생연구원**(21.09-22.02)
-- **한국전자통신연구원(ETRI) 연구인턴** (21.07-21.08)
-- 숭실대학교 HCI&U LAB 학부연구생(19.01-20.12)
-- 숭실대학교 **산업정보시스템공학** 전공 (18.03-23.08)
-- 숭실대학교 **컴퓨터학부** 복수전공 (18.03-23.08)
-
 
 ### 🛠tech stack
 
