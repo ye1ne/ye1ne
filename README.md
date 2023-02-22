@@ -17,12 +17,6 @@
 
 
 
-### hi there 👋
-
-  <a href="https://coding-zzang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=TISTORY&logoColor=white"/></a>   <a href="https://blog.naver.com/yewon7036" target="_blank"><img src="https://img.shields.io/badge/NaveR_Blog-03CF5D?style=flat-square&logo=Naver&logoColor=white"/></a>  <a href="https://www.instagram.com/ye_1ne/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/ye_1ne-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye1ne&show_icons=true&theme=vue) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuomah&count_bg=%23FAABA8&title_bg=%23653E3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
