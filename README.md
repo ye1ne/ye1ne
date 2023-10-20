@@ -3,18 +3,6 @@
 - [블로그](https://coding-zzang.tistory.com/)
 - [Linkedin](https://www.linkedin.com/in/yewon-jeong-05023a20a/)
 
-### 🛠tech stack
-
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JIRA&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-
-
-
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye1ne&show_icons=true&theme=vue) -->
 
