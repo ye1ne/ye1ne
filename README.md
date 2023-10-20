@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEC99A,50:DBA9E0,100:8DD6DC&height=300&section=header&text=yewon's%20github&fontSize=60&fontAlignY=50&fontColor=FFFFFF&fontAlign=70)
 ### 👩🏻‍💻About Me
-- BE Developer
-- [공부를 위한 기술블로그](https://coding-zzang.tistory.com/)를 운영하고 있습니다.
-- 이력이 궁금하다면 [포트폴리오](https://ye1ne.notion.site/) 또는 [Linkedin](https://www.linkedin.com/in/yewon-jeong-05023a20a/)
+- [블로그](https://coding-zzang.tistory.com/)
+- [Linkedin](https://www.linkedin.com/in/yewon-jeong-05023a20a/)
 
 ### 🛠tech stack
 
